@@ -1,0 +1,17 @@
+# Ignoriere das node_modules-Verzeichnis
+node_modules
+
+# Ignoriere auch das npm-Log-Dateien
+npm-debug.log
+yarn-error.log
+
+# Ignoriere eventuell vorhandene .env-Dateien
+.env
+
+# Ignoriere das Dockerfile und die docker-compose-Datei, um unnötige Kopien zu vermeiden
+Dockerfile
+docker-compose.yml
+
+# Ignoriere andere generierte Verzeichnisse
+dist
+build
