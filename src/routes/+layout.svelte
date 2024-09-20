@@ -59,11 +59,9 @@
 	  <ul class="menu p-4 w-80 min-h-full bg-base-200 text-base-content">
 		<!-- Sidebar content here -->
 		<li><a href="/">home</a></li>
-		<li><a href ="/TicTacToe">Tic Tac Toe</a></li>
+		<li><a href="/Studentsplanner">Planner</a></li>
 		<li><a href ="/GeneticAI">AI</a></li>
-		<li><a href ="/login">Login</a></li>	
-		<li><a href ="/Robots">Robots</a></li>
-		<li><a href ="/websocketTest">Websocket</a></li>
+		
 	  </ul>
 	</div>
   </div>
